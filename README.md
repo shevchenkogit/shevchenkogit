@@ -61,8 +61,8 @@ I am a passionate **Fullstack Developer** with a focus on building scalable, hig
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shevchenkogit&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shevchenkogit&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shevchenkogit&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shevchenkogit&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
