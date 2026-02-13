@@ -9,6 +9,13 @@ I am a passionate **Fullstack Developer** with a focus on building scalable, hig
 
 ---
 
+### 🐍 Snake Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shevchenkogit/shevchenkogit/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 🛠 Tech Stack & Tools
 
 <details open>
@@ -62,6 +69,13 @@ I am a passionate **Fullstack Developer** with a focus on building scalable, hig
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shevchenkogit&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+---
+
+### 📫 Let's connect!
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINK" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/YOUR_NICK" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
 
 ---
 *“Done is better than perfect, but clean code is non-negotiable.”*
